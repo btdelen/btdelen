@@ -6,6 +6,6 @@
 
 ### 🛠️ Tech & Tools
 
-`C` `C++` `Python` `STM32` `Ardunıo` `MATLAB/Simulink` `PID Control` `Embedded Design` `Robotics`
+`C` `C++` `Python` `STM32` `Ardunıo` `Embedded Design` `Robotics`
 
 ---
