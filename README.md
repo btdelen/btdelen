@@ -6,6 +6,6 @@
 
 ### 🛠️ Tech & Tools
 
-`C` `C++` `Python` `STM32` `Ardunıo` `Embedded Design` `Robotics`
+`C` `C++` `Python` `Java` `Web Devolopment` `STM32` `ESP32` `Embedded Design` `Robotics` 
 
 ---
