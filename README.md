@@ -1,12 +1,12 @@
-# Hi 👋, I'm Başar Toprak Delen
+# Hi, I'm Başar Toprak Delen
 
-### 🎓 Electrical-Electronics Engineer - Embedded Systems & Robotics
+### Electrical-Electronics Engineer - Embedded Systems & Robotics
 
 I focus on **Embedded Systems**, **Control Theory**, and **Robotics**. I also develop **iOS Applications** to create integrated hardware-software solutions.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project Name | Description | Tech Stack | Code |
 | :--- | :--- | :--- | :---: |
@@ -15,23 +15,24 @@ I focus on **Embedded Systems**, **Control Theory**, and **Robotics**. I also de
 
 ---
 
-### 🔥 Currently Working On
-- 📱 Developing **2 iOS Applications** for the App Store using **Swift & Xcode** (Coming Soon).
-- 🔄 Improving real-time communication between mobile apps and embedded hardware.
+### Currently Working On
+-  Developing **2 iOS Applications** for the App Store using **Swift & Xcode** (Coming Soon).
+-  Improving real-time communication between mobile apps and embedded hardware.
 
 ---
 
-### 🛠 Languages and Tools
+###  Languages and Tools
 
 | Category | Skills |
 | :--- | :--- |
-| **🖥️ Programming Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,swift" height="40" alt="languages" /></a> |
-| **🔌 Embedded & Hardware** | <a href="https://www.st.com" target="_blank"><img src="https://github.com/user-attachments/assets/0794f05b-fe57-4acd-aab6-878ddfae8c13" height="40" alt="stm32" title="STM32" style="margin-right: 5px;" /></a><a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino" /></a> |
-| **📐 Design & Tools** | <a href="https://www.kicad.org/" target="_blank"><img src="https://github.com/user-attachments/assets/5439dc9a-e2e2-4ef7-93e3-df9100cc7156" height="40" alt="kicad" title="KiCad" style="margin-right: 5px;" /></a><a href="https://www.autodesk.com/products/autocad" target="_blank"><img src="https://github.com/user-attachments/assets/382faf5b-c86f-408d-aaa6-ff4a178fde11" height="40" alt="autocad" title="AutoCAD" style="margin-right: 5px;" /></a><a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://cdn.simpleicons.org/xcode/157CFF" height="40" alt="xcode" title="Xcode" /></a> |
+| ** Programming Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,swift" height="40" alt="languages" /></a> |
+| ** Embedded & Hardware** | <a href="https://www.st.com" target="_blank"><img src="https://github.com/user-attachments/assets/0794f05b-fe57-4acd-aab6-878ddfae8c13" height="40" alt="stm32" title="STM32" style="margin-right: 5px;" /></a><a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino" /></a> |
+| ** Design & Tools** | <a href="https://www.kicad.org/" target="_blank"><img src="https://github.com/user-attachments/assets/5439dc9a-e2e2-4ef7-93e3-df9100cc7156" height="40" alt="kicad" title="KiCad" style="margin-right: 5px;" /></a><a href="https://www.autodesk.com/products/autocad" target="_blank"><img src="https://github.com/user-attachments/assets/382faf5b-c86f-408d-aaa6-ff4a178fde11" height="40" alt="autocad" title="AutoCAD" style="margin-right: 5px;" /></a><a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://cdn.simpleicons.org/xcode/157CFF" height="40" alt="xcode" title="Xcode" /></a> |
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
+- **3D Modeling & CAD Applications** for mechanical design.
 - **Real-Time Operating Systems (RTOS)** concepts.
 - **Raspberry Pi** & Linux for embedded applications.
 - Advanced Communication Protocols (**I2C, SPI, CAN**).
