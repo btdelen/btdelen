@@ -23,17 +23,13 @@ I focus on **Embedded Systems**, **Control Theory**, and **Robotics**. I also de
 
 ### 🛠 Languages and Tools
 
-<p align="left"> 
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,swift" height="40" alt="skills" />
-    </a>
-    <a href="https://www.st.com" target="_blank">
-      <img src="https://github.com/user-attachments/assets/0794f05b-fe57-4acd-aab6-878ddfae8c13" height="40" alt="stm32" title="STM32" style="margin: 0 5px;" />
-    </a>
-    <a href="https://developer.apple.com/xcode/" target="_blank">
-      <img src="https://cdn.simpleicons.org/xcode/157CFF" height="40" alt="xcode" title="Xcode" style="margin: 0 5px;" />
-    </a>
-</p>
+| Category | Skills |
+| :--- | :--- |
+| **🖥️ Programming Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,swift" height="40" alt="languages" /></a> |
+| **🔌 Embedded & Hardware** | <a href="https://www.st.com" target="_blank"><img src="https://github.com/user-attachments/assets/0794f05b-fe57-4acd-aab6-878ddfae8c13" height="40" alt="stm32" title="STM32" style="margin-right: 5px;" /></a><a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino" /></a> |
+| **📐 Design & Tools** | <a href="https://www.kicad.org/" target="_blank"><img src="https://github.com/user-attachments/assets/5439dc9a-e2e2-4ef7-93e3-df9100cc7156" height="40" alt="kicad" title="KiCad" style="margin-right: 5px;" /></a><a href="https://www.autodesk.com/products/autocad" target="_blank"><img src="https://github.com/user-attachments/assets/382faf5b-c86f-408d-aaa6-ff4a178fde11" height="40" alt="autocad" title="AutoCAD" style="margin-right: 5px;" /></a><a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://cdn.simpleicons.org/xcode/157CFF" height="40" alt="xcode" title="Xcode" /></a> |
+
+---
 
 ### 🌱 Currently Learning
 - **Real-Time Operating Systems (RTOS)** concepts.
