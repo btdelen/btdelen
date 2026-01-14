@@ -28,7 +28,7 @@ I focus on **Embedded Systems**, **Control Theory**, and **Robotics**. I also de
       <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,swift" height="40" alt="skills" />
     </a>
     <a href="https://www.st.com" target="_blank">
-      <img src="https://github.com/btdelen/btdelen/blob/main/stm32.png?raw=true" height="40" alt="stm32" title="STM32" style="margin: 0 5px;" />
+      <img src="https://github.com/user-attachments/assets/0794f05b-fe57-4acd-aab6-878ddfae8c13" height="40" alt="stm32" title="STM32" style="margin: 0 5px;" />
     </a>
     <a href="https://developer.apple.com/xcode/" target="_blank">
       <img src="https://cdn.simpleicons.org/xcode/157CFF" height="40" alt="xcode" title="Xcode" style="margin: 0 5px;" />
